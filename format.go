@@ -1,4 +1,4 @@
-package format
+package gutils
 
 import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
